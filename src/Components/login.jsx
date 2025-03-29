@@ -1,8 +1,6 @@
 import React from 'react'
 import { useState } from 'react';
 import { useCookies } from 'react-cookie';
-import { Link } from 'react-router-dom';
-import Home from './Home';
 import { useEffect } from 'react';
 
 const login = () => {
